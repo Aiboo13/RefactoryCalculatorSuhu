@@ -1,2 +1,2 @@
-# tugas_minggu_3_konvensi_suhu
+# tugas_minggu_8 Refactor_Kalkulator_Suhu
 
